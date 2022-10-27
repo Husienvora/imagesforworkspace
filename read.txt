@@ -1,0 +1,7 @@
+async function uploadCombineDelete(originaFile, data) {
+  const [file] = await bucket.file('tempFile').save(config);
+  console.log(`${file.name} uploaded`);
+  const [newFile] = await bucket.combine([originalFile, 'tempFile'], originalFile);
+  console.log(`appended to ${newFile.name}`);
+  await bucket.file('tempFile').delete();
+}
