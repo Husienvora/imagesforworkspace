@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cera-367910",
+  "private_key_id": "27d9fbec9807c65d059c3b38efe98f4b230f0f82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBLph8gMakHBs8\n/NCilIOR5o8OR9x9fnC5C+eT53S0fvRUfT/J8xgcZp/lXr+wwuJO2wqmwTnUyyP1\nW77Mb33eF+6JuNROeVL2PeA0YhVVJou1a1PaLftZEim16jJMFuiRzURiuvcMJQ+a\n+SzmiP6mhqutkxwAlzFtV3EdsZV3kdBuLzG//8n8waEoLTeJjSk8e/l1EPopaOBA\nfwRFsvW8bqWMPhwr8CeTqJQ0IUlp9bF5FzNKDOwtdaU8tAlwy551nz7ulbfmjKqc\nzl3JiuBnsqWxv5i1vA4YALbUUfdOadsIgKg9jNd2cmK4rSpIog28syiEXmq8XTuK\nBxYrkVD9AgMBAAECggEANL9KzpAA7RVpkIz9UK8Zf7CC9iTD/RYVpEkuWbG0qYYS\no7ExRiyUtEiHN0NYNuT3kw13CpIu/r3a2ydKYRq+NPK25K7tdWHmN6sseVEgvwfP\n1ODx29x7SVZOwkeopSMKLKluF0EyrIPAD5Ii4u2cDo8t+C53Umf2DIN4NOHkzGkw\nGE7s5S5nbNkN7gsAdk/MqHaOwBJhjz2/W5b9mDhz3QsNa8fewIYQllRm+4pk5bki\nWqHGa6KMuUCDvk0fBTcHa7KJ0yio3nXc84NtPogKNV5zpy3sAVzylgT11PJumvyF\nBcs9/zEiFHgJ4B8hqmDXP+tP8/29ZBP7ZtlSLaezNwKBgQDiYRNIOsGJFSd1+7yM\nunpWOSpd+JMMhyO4GfdX1K6PH3e3aCNBJAgxKh+08eZTxYiZqxxT5ThpJEeCK/v5\nxXPJSy1ScgkAusK1DejEegAIkVg/aP7XYh7cunXof0A+imim2o9kx/mmZkDq7vig\nt7s6up0E74gtvnCQl8bY5JLYxwKBgQDadYdct/YI8zY+cUZV4jCaUHJmpvF70fZS\nYmVZxykYPppZWJF5UmoswV/EK8WDxXytqCrMFs/4wZbX2pC3BFVTwcoe0dI8R7mv\n9CoFaHH2H+QlLrqofLkj9gmAr/sEatVKjLdkK8ofghxcjdO6Ry6wYGfQbh8zbk7B\n8++U0tvsGwKBgCekABBh2Yn7nlFWp4mtDccTc4vI/1buQx71zQ4gPADr7ba8EZBS\nkuypB6xTv5VjvavK/sbiGKKwq6Trts/h94iEFYeeWF08VuQFb4EYK/FUIjPYWue0\nUtsr+4Ge5s0Mx46QLxPiwKCWvz9kYT0jbzG1g9FdcGcyNdvb+AH65Iv5AoGAK5je\n7cMMx9Z50dZbWhJs7q71VcUlVjedt+1JGrSjX+JGfWQujA7Ff68LxKOTpGuKKUHx\nYI+A67z+tI866DtmJ/P5uVLYaQ1LYnEQ3cltTNgqeL0tpShW7nVQii0UpFoJvPn+\nM3CFwun9bP8k7Pz9tVdYAIGpmmL+NrjO7F10ZFcCgYByh4tvHX38JiX7nq2e3U5Q\nSfkZq23GdvB7sLTXfpW9b6P5TnkJMRuUA45f+CDY2x5fJcfO7gH9azMpVyq5Wc62\nACQhDCulOpYqbS1QWgbYNHKv+8q/LmQigOpvSFme6aw2vkRSnD+451WvNHktNCID\n0OUEGqZ0i7gFIq8h0wHxHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cera-calendar@cera-367910.iam.gserviceaccount.com",
+  "client_id": "114394502989905909456",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cera-calendar%40cera-367910.iam.gserviceaccount.com"
+}
